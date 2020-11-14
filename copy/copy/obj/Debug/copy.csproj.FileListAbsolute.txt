@@ -1,0 +1,7 @@
+C:\Users\Janko\source\repos\copy\copy\bin\Debug\copy.exe.config
+C:\Users\Janko\source\repos\copy\copy\bin\Debug\copy.exe
+C:\Users\Janko\source\repos\copy\copy\bin\Debug\copy.pdb
+C:\Users\Janko\source\repos\copy\copy\obj\Debug\copy.csprojAssemblyReference.cache
+C:\Users\Janko\source\repos\copy\copy\obj\Debug\copy.csproj.CoreCompileInputs.cache
+C:\Users\Janko\source\repos\copy\copy\obj\Debug\copy.exe
+C:\Users\Janko\source\repos\copy\copy\obj\Debug\copy.pdb
